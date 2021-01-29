@@ -1,0 +1,5 @@
+MARLAB code used to produce day-for-night transformations of stimuli
+images taken in normal day-light.  See run_dfn.m for an example of how
+to produce one of the figuers in Jessica L. Yorzinski, Amy Harbourne,
+& William Thompson, "Sclera color in humans facilitates gaze perception
+at night," under review.
